@@ -1,0 +1,30 @@
+_repo: The-small-bears_72496
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henderson, Gene L.
+    gutenberg_agent_id: '35847'
+    url: http://www.gutenberg.org/2009/agents/35847
+description: ''
+gutenberg_issued: '2023-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72496'
+language: en
+pgterms:marc905: 20231209104829henderson
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The small bears
+url: http://www.gutenberg.org/ebooks/72496
