@@ -1,11 +1,16 @@
 _repo: The-small-bears_72496
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72496-h/images/cover.jpg
 creator:
   author:
     agent_name: Henderson, Gene L.
     gutenberg_agent_id: '35847'
     url: http://www.gutenberg.org/2009/agents/35847
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72496#The-small-bears
 gutenberg_issued: '2023-12-24'
 gutenberg_type: Text
 identifiers:
